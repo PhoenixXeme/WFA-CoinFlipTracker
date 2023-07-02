@@ -1,0 +1,17 @@
+D:\C# Projects\WFA_CoinFlipTracker\WFA_CoinFlipTracker\bin\v0.1\net7.0-windows\win-x64\WFA_CoinFlipTracker.exe
+D:\C# Projects\WFA_CoinFlipTracker\WFA_CoinFlipTracker\bin\v0.1\net7.0-windows\win-x64\WFA_CoinFlipTracker.deps.json
+D:\C# Projects\WFA_CoinFlipTracker\WFA_CoinFlipTracker\bin\v0.1\net7.0-windows\win-x64\WFA_CoinFlipTracker.runtimeconfig.json
+D:\C# Projects\WFA_CoinFlipTracker\WFA_CoinFlipTracker\bin\v0.1\net7.0-windows\win-x64\WFA_CoinFlipTracker.dll
+D:\C# Projects\WFA_CoinFlipTracker\WFA_CoinFlipTracker\bin\v0.1\net7.0-windows\win-x64\WFA_CoinFlipTracker.pdb
+D:\C# Projects\WFA_CoinFlipTracker\WFA_CoinFlipTracker\obj\v0.1\net7.0-windows\win-x64\WFA_CoinFlipTracker.csproj.AssemblyReference.cache
+D:\C# Projects\WFA_CoinFlipTracker\WFA_CoinFlipTracker\obj\v0.1\net7.0-windows\win-x64\WFA_CoinFlipTracker.Form1.resources
+D:\C# Projects\WFA_CoinFlipTracker\WFA_CoinFlipTracker\obj\v0.1\net7.0-windows\win-x64\WFA_CoinFlipTracker.csproj.GenerateResource.cache
+D:\C# Projects\WFA_CoinFlipTracker\WFA_CoinFlipTracker\obj\v0.1\net7.0-windows\win-x64\WFA_CoinFlipTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\WFA_CoinFlipTracker\WFA_CoinFlipTracker\obj\v0.1\net7.0-windows\win-x64\WFA_CoinFlipTracker.AssemblyInfoInputs.cache
+D:\C# Projects\WFA_CoinFlipTracker\WFA_CoinFlipTracker\obj\v0.1\net7.0-windows\win-x64\WFA_CoinFlipTracker.AssemblyInfo.cs
+D:\C# Projects\WFA_CoinFlipTracker\WFA_CoinFlipTracker\obj\v0.1\net7.0-windows\win-x64\WFA_CoinFlipTracker.csproj.CoreCompileInputs.cache
+D:\C# Projects\WFA_CoinFlipTracker\WFA_CoinFlipTracker\obj\v0.1\net7.0-windows\win-x64\WFA_CoinFlipTracker.dll
+D:\C# Projects\WFA_CoinFlipTracker\WFA_CoinFlipTracker\obj\v0.1\net7.0-windows\win-x64\refint\WFA_CoinFlipTracker.dll
+D:\C# Projects\WFA_CoinFlipTracker\WFA_CoinFlipTracker\obj\v0.1\net7.0-windows\win-x64\WFA_CoinFlipTracker.pdb
+D:\C# Projects\WFA_CoinFlipTracker\WFA_CoinFlipTracker\obj\v0.1\net7.0-windows\win-x64\WFA_CoinFlipTracker.genruntimeconfig.cache
+D:\C# Projects\WFA_CoinFlipTracker\WFA_CoinFlipTracker\obj\v0.1\net7.0-windows\win-x64\ref\WFA_CoinFlipTracker.dll

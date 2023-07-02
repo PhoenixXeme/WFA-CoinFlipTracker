@@ -1,0 +1,2 @@
+D:\C# Projects\WFA_CoinFlipTracker\WFA_CoinFlipTracker\bin\v0.1\net7.0-windows\win-x64\publish\WFA_CoinFlipTracker.pdb
+D:\C# Projects\WFA_CoinFlipTracker\WFA_CoinFlipTracker\bin\v0.1\net7.0-windows\win-x64\publish\WFA_CoinFlipTracker.exe
